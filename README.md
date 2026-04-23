@@ -26,29 +26,9 @@ Right now, I’m especially interested in:
 
 ---
 
-## Projects
-
-### Game Store Web App
-Full-stack web application for browsing and managing games.
-
-- ASP.NET Core backend (C#)
-- RESTful API design
-- Vanilla JavaScript frontend (rebuild using Angular / React in the future)
-- CRUD operations with relational data (Games & Genres)
-
----
-
-### Hand Detection System
-Computer vision project using Python.
-
-- MediaPipe hand tracking
-- OpenCV video processing
-- Gesture logic and experimentation
-- Exploring extensions like finger/face tracking concepts
-
----
-
 ## Tech Stack
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=psi0n1c&layout=compact&theme=tokyonight)
 
 **Languages**
 - Java
@@ -94,3 +74,7 @@ Always open to learning, collaboration, or feedback on projects.
 
 ## Favorite quote
 > “Build it, break it, understand it, rebuild it better.”
+
+## GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=psi0n1c&show_icons=true&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=psi0n1c&theme=tokyonight)

@@ -13,7 +13,7 @@ I enjoy working across the stack - from backend logic and APIs to interactive fr
 Right now, I’m especially interested in:
 - Full-stack web development
 - Backend architecture and APIs
-- Computer vision
+- AI/ML
 - Software design
 
 ---
